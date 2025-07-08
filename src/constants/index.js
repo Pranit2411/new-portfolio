@@ -12,7 +12,7 @@ export const myProjects = [
     ],
     href: "https://github.com/Pranit2411/Projectfinal",
     logo: "",
-    image: "/assets/projects/Transformergo.png",
+    image: "assets/projects/Transformergo.png",
     tags: [
       {
         id: 1,
@@ -49,7 +49,7 @@ export const myProjects = [
     ],
     href: "https://github.com/Pranit2411/Turtleback-zoo-management-system",
     logo: "",
-    image: "/assets/projects/turtlebackzoo.png",
+    image: "assets/projects/turtlebackzoo.png",
     tags: [
       {
         id: 1,
