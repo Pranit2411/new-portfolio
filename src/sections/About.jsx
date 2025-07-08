@@ -24,20 +24,20 @@ const About = () => {
                         <Card image ="assets/logos/java-icon.svg" style={{rotate: "90deg", bottom: "30%", left: "70%"}}/>
                         <Card image ="assets/logos/github.svg" style={{rotate: "-45deg", top: "55%", left: "0%"}}/>
                         <Card image ="assets/logos/git.svg" style={{rotate: "20deg", top: "10%", left: "38%"}}/>
-                        <Card image="assets/logos/visualstudiocode.svg" style={{rotate: "30deg", top: "70%", left: "70%"}}/>
+                        <Card image="assets/logos/visualstudiocode.svg" style={{rotate: "30deg", top: "70%", left: "65%"}}/>
                         <Card image="assets/logos/cplusplus.svg" style={{rotate: "30deg", top: "70%", left: "30%"}}/>
                         <Card image="assets/logos/html5.svg" style={{rotate: "15deg", top: "20%", left: "80%"}}/>
                         <Card image="assets/logos/css3.svg" style={{rotate: "120deg", top: "15%", left: "60%"}}/>
                         <Card image="assets/logos/csharp.svg" style={{rotate: "60deg", top: "5%", left: "10%"}}/>
                         <Card image="assets/logos/mysql-official.svg" style={{rotate: "10deg", top: "80%", left: "10%"}}/>
-                        <Card image="assets/logos/react.svg" style={{rotate: "-10deg", top: "80%", left: "85%"}}/>
+                        <Card image="assets/logos/react.svg" style={{rotate: "-10deg", top: "72%", left: "80%"}}/>
                     </div>
                 </div>
                 <div className="grid-black-color grid-3">
                     <div className='z-10 w-[50%]'>
                         <p className='headtext'>Time Zone</p>
                         <p>I'm based in New Jersey, USA and open to remote work worldwide</p>
-                        <img src="assets/earth.png" className="absolute left-[30%] top-[0%]" />
+                        <img src="assets/earth.png" className="absolute left-[30%] top-[0%] z-0" />
                     </div>
                 </div>
                 <div className="grid-special-color grid-4">
@@ -52,7 +52,7 @@ const About = () => {
                     </div>
                 </div>
                 <div className="grid-default-color grid-5">
-                    <div className='z-10 w-[50%]'>
+                    <div className='z-10 w-[60%]'>
                         <p className='headtext'>Tech Stack</p>
                         <p className='subText'>I specialize in a variety of languages, frameworks and tools that allow me to build robust and scalable applications</p>
                         
