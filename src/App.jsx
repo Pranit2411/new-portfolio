@@ -9,13 +9,13 @@ import Title from './sections/Title';
 const App = () => {
   return (
     <div className='container mx-auto max-w-7xl'>
-      {/* <Title />
-      <Navbar /> */}
-      <Hero />
-      {/* <About />
+      <Title />
+      <Navbar />
+      {/* <Hero /> */}
+      <About />
       <Projects />
       <Experiences  />
-      <Footer /> */}
+      <Footer />
     </div>
   );
 };
