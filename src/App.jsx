@@ -11,7 +11,7 @@ const App = () => {
     <div className='container mx-auto max-w-7xl'>
       <Title />
       <Navbar />
-      {/* <Hero /> */}
+      <Hero />
       <About />
       <Projects />
       <Experiences  />
